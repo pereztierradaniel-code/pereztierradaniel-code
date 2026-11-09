@@ -2,9 +2,11 @@
 
 **Software, web & AI** | Monforte de Lemos (Lugo, Spain)
 
-[English](#english) | [Español](#español) | 📧 pereztierradaniel@gmail.com
+[English](#en) | [Español](#es) | 📧 pereztierradaniel@gmail.com
 
 ---
+
+<a id="en"></a>
 
 ## English
 
@@ -38,6 +40,8 @@ I'm open to junior roles and freelance projects, especially with small businesse
 - High school diploma (Bachillerato)
 
 ---
+
+<a id="es"></a>
 
 ## Español
 
